@@ -1,2 +1,2 @@
 # courserarepo
-Folling Coursera course
+Following Coursera course
